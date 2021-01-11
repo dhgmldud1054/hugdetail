@@ -175,3 +175,7 @@
     filter: brightness(100%);
     transition: all 250ms linear;
 }
+
+@media(max-width: 980px){
+     .gowebbtn{margin: 0 auto}
+}
